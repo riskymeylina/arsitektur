@@ -81,7 +81,7 @@
                 <div class="row mb-n10">
                     <div class="col-lg-6 mb-10 col-md-12 order-2 order-lg-1" data-aos="fade-right" data-aos-delay="500">
                         <div class="history-image">
-                            <img class="fit-image" src="/assets/images/history/history-1.png" alt="">
+                            <img class="fit-image" src="/assets/images/history/history-2.png" alt="">
                         </div>
                     </div>
                     <div class="col-lg-6 mb-10 col-md-12 align-self-center order-1 order-lg-2" data-aos="fade-left"

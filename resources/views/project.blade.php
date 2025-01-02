@@ -51,7 +51,7 @@
                                 </a>
                             </div>
                             <div class="inner-content">
-                                <div class="sub-title">Residentials</div>
+
                                 <h4 class="title"><a href="/{{ $project->id }}/project-details">{{ $project->name }}</a>
                                 </h4>
                             </div>

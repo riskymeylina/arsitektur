@@ -47,14 +47,12 @@
                             </a>
                         </div>
                         <div class="inner-content">
-                            <ul class="info-list">
-                                <li>Dec 23, 2021</li>
-                                <li>news</li>
-                            </ul>
-                            <h4 class="title">The Way Of Building</h4>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus faucibus est sed facilisis
-                                viverra. Praesent nec accumsan nibh, eu grav da metus. Curabitur quis sagittis nisl. In
-                                lectus ligula, varius quis...</p>
+
+                            <h4 class="title">Interior Rumah Type 110
+                            </h4>
+                            <p>Desain interior rumah dengan konsep modern minimalis yang mengutamakan kenyamanan,
+                                pencahayaan alami, dan sirkulasi udara. Ruang-ruang diatur sedemikian rupa untuk menciptakan
+                                lingkungan yang fungsional sekaligus estetis.</p>
 
                         </div>
                     </div>
@@ -70,15 +68,12 @@
 
                         </div>
                         <div class="inner-content">
-                            <ul class="info-list">
-                                <li>June 10, 2021</li>
-                                <li>Inspiration</li>
-                            </ul>
-                            <h4 class="title">The Arch In Modern Architecture, Art and
-                                Aesthetic More</h4>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus faucibus est sed facilisis
-                                viverra. Praesent nec accumsan nibh, eu grav da metus. Curabitur quis sagittis nisl. In
-                                lectus ligula, varius quis...</p>
+
+                            <h4 class="title">Eksterior Rumah Type 110
+                            </h4>
+                            <p> Tampilan eksterior rumah yang dirancang dengan gaya minimalis kontemporer, menggunakan
+                                elemen alami seperti kayu dan batu alam untuk menciptakan kesan hangat dan harmonis dengan
+                                lingkungan sekitar. Cocok untuk area suburban yang mendukung gaya hidup tenang.</p>
 
                         </div>
                     </div>
@@ -94,42 +89,19 @@
 
                         </div>
                         <div class="inner-content">
-                            <ul class="info-list">
-                                <li>Aug 22, 2021</li>
-                                <li>Top & Tricks</li>
-                            </ul>
-                            <h4 class="title">Spiral Stair, New Interior Design Trends 2021
+
+                            <h4 class="title">Rumah 2 Lantai
                             </h4>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus faucibus est sed facilisis
-                                viverra. Praesent nec accumsan nibh, eu grav da metus. Curabitur quis sagittis nisl. In
-                                lectus ligula, varius quis...</p>
+                            <p>Desain rumah dua lantai ini memadukan fungsi dan estetika dengan maksimal. Struktur rumah
+                                dirancang untuk memanfaatkan ruang secara efisien, sementara elemen modern seperti jendela
+                                besar dan tata letak terbuka memberikan nuansa luas, terang, dan nyaman.</p>
 
                         </div>
                     </div>
                 </div>
                 <!-- Single blog End -->
 
-                <!-- Single blog Start -->
-                <div class="col cat-1 cat-2 cat-3 cat-4 mb-10">
-                    <div class="single-blog-wrap">
-                        <div class="blog-thumb">
 
-                            <img class="fit-image" src="/assets/images/news/4.png" alt="blog Image">
-
-                        </div>
-                        <div class="inner-content">
-                            <ul class="info-list">
-                                <li>Sep 12, 2021</li>
-                                <li>news</li>
-                            </ul>
-                            <h4 class="title">Nordic Interior Style</h4>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus faucibus est sed facilisis
-                                viverra. Praesent nec accumsan nibh, eu grav da metus. Curabitur quis sagittis nisl. In
-                                lectus ligula, varius quis...</p>
-
-                        </div>
-                    </div>
-                </div>
                 <!-- Single blog End -->
                 <!-- Single blog Start -->
                 <div class="col cat-1 cat-2 cat-3 cat-4 mb-10">
@@ -140,40 +112,19 @@
 
                         </div>
                         <div class="inner-content">
-                            <ul class="info-list">
-                                <li>Sep 12, 2021</li>
-                                <li>news</li>
-                            </ul>
-                            <h4 class="title">Nordic Interior Style</h4>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus faucibus est sed facilisis
-                                viverra. Praesent nec accumsan nibh, eu grav da metus. Curabitur quis sagittis nisl. In
-                                lectus ligula, varius quis...</p>
+
+                            <h4 class="title">Studio Perancangan Arsitektur 6
+                            </h4>
+                            <p>Interior studio arsitektur yang dirancang untuk mendukung aktivitas kreatif. Tata ruang yang
+                                terbuka, pemilihan warna yang netral, dan elemen desain ergonomis menciptakan lingkungan
+                                kerja yang inspiratif dan nyaman untuk proses perancangan.</p>
 
                         </div>
                     </div>
                 </div>
                 <!-- Single blog End -->
                 <!-- Single blog Start -->
-                <div class="col cat-1 cat-2 cat-3 cat-4 mb-10">
-                    <div class="single-blog-wrap">
-                        <div class="blog-thumb">
 
-                            <img class="fit-image" src="/assets/images/news/6.png" alt="blog Image">
-
-                        </div>
-                        <div class="inner-content">
-                            <ul class="info-list">
-                                <li>Sep 12, 2021</li>
-                                <li>news</li>
-                            </ul>
-                            <h4 class="title">Nordic Interior Style</h4>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus faucibus est sed facilisis
-                                viverra. Praesent nec accumsan nibh, eu grav da metus. Curabitur quis sagittis nisl. In
-                                lectus ligula, varius quis...</p>
-
-                        </div>
-                    </div>
-                </div>
                 <!-- Single blog End -->
                 <!-- Single blog Start -->
                 <div class="col cat-1 cat-2 cat-3 cat-4 mb-10">
@@ -188,37 +139,17 @@
                                 <li>Sep 12, 2021</li>
                                 <li>news</li>
                             </ul>
-                            <h4 class="title">Nordic Interior Style</h4>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus faucibus est sed facilisis
-                                viverra. Praesent nec accumsan nibh, eu grav da metus. Curabitur quis sagittis nisl. In
-                                lectus ligula, varius quis...</p>
+                            <h4 class="title">Eksterior Aerial View</h4>
+                            <p>Visualisasi udara dari desain eksterior fasilitas multifungsi yang menonjolkan tata ruang
+                                yang efisien dan konektivitas antarbangunan. Struktur dirancang dengan memperhatikan elemen
+                                hijau dan keselarasan dengan lingkungan sekitarnya.</p>
 
                         </div>
                     </div>
                 </div>
                 <!-- Single blog End -->
                 <!-- Single blog Start -->
-                <div class="col cat-1 cat-2 cat-3 cat-4 mb-10">
-                    <div class="single-blog-wrap">
-                        <div class="blog-thumb">
 
-                            <img class="fit-image" src="/assets/images/news/8.png" alt="blog Image">
-
-                        </div>
-                        <div class="inner-content">
-                            <ul class="info-list">
-                                <li>Sep 12, 2021</li>
-                                <li>news</li>
-                            </ul>
-                            <h4 class="title">Nordic Interior Style</h4>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus faucibus est sed facilisis
-                                viverra. Praesent nec accumsan nibh, eu grav da metus. Curabitur quis sagittis nisl. In
-                                lectus ligula, varius quis...</p>
-
-
-                        </div>
-                    </div>
-                </div>
                 <!-- Single blog End -->
 
             </div>
