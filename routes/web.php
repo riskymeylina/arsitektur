@@ -19,7 +19,7 @@ Route::middleware('auth')->group(function () {
     Route::resource('images', ImageController::class);
     Route::get('/{project}/project-details', [ShowController::class, 'detail']);
     Route::get('/portofolio', function () {
-        return view('Portofolio');
+        return view('portofolio');
     });
 
     Route::get('/contact', function () {

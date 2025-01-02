@@ -42,8 +42,8 @@
                 <div class="col cat-3 mb-10">
                     <div class="single-blog-wrap">
                         <div class="blog-thumb">
-                            <a class="image" href="blog-details.html">
-                                <img class="fit-image" src="/assets/images/news/1.png" alt="blog Image">
+
+                            <img class="fit-image" src="/assets/images/news/1.png" alt="blog Image">
                             </a>
                         </div>
                         <div class="inner-content">
@@ -51,12 +51,11 @@
                                 <li>Dec 23, 2021</li>
                                 <li>news</li>
                             </ul>
-                            <h4 class="title"><a href="blog-details.html">The Way Of Building</a></h4>
+                            <h4 class="title">The Way Of Building</h4>
                             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus faucibus est sed facilisis
                                 viverra. Praesent nec accumsan nibh, eu grav da metus. Curabitur quis sagittis nisl. In
                                 lectus ligula, varius quis...</p>
-                            <a href="blog-details.html" class="article">full article <span
-                                    class="arrow icofont-rounded-right"></span></a>
+
                         </div>
                     </div>
                 </div>
@@ -66,22 +65,21 @@
                 <div class="col cat-1 cat-3 cat-4 mb-10">
                     <div class="single-blog-wrap">
                         <div class="blog-thumb">
-                            <a class="image" href="blog-details.html">
-                                <img class="fit-image" src="/assets/images/news/2.png" alt="blog Image">
-                            </a>
+
+                            <img class="fit-image" src="/assets/images/news/2.png" alt="blog Image">
+
                         </div>
                         <div class="inner-content">
                             <ul class="info-list">
                                 <li>June 10, 2021</li>
                                 <li>Inspiration</li>
                             </ul>
-                            <h4 class="title"><a href="blog-details.html">The Arch In Modern Architecture, Art and
-                                    Aesthetic More</a></h4>
+                            <h4 class="title">The Arch In Modern Architecture, Art and
+                                Aesthetic More</h4>
                             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus faucibus est sed facilisis
                                 viverra. Praesent nec accumsan nibh, eu grav da metus. Curabitur quis sagittis nisl. In
                                 lectus ligula, varius quis...</p>
-                            <a href="blog-details.html" class="article">full article <span
-                                    class="arrow icofont-rounded-right"></span></a>
+
                         </div>
                     </div>
                 </div>
@@ -91,22 +89,21 @@
                 <div class="col cat-1 cat-2 cat-3 cat-4 mb-10">
                     <div class="single-blog-wrap">
                         <div class="blog-thumb">
-                            <a class="image" href="blog-details.html">
-                                <img class="fit-image" src="/assets/images/news/3.png" alt="blog Image">
-                            </a>
+
+                            <img class="fit-image" src="/assets/images/news/3.png" alt="blog Image">
+
                         </div>
                         <div class="inner-content">
                             <ul class="info-list">
                                 <li>Aug 22, 2021</li>
                                 <li>Top & Tricks</li>
                             </ul>
-                            <h4 class="title"><a href="blog-details.html">Spiral Stair, New Interior Design Trends 2021</a>
+                            <h4 class="title">Spiral Stair, New Interior Design Trends 2021
                             </h4>
                             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus faucibus est sed facilisis
                                 viverra. Praesent nec accumsan nibh, eu grav da metus. Curabitur quis sagittis nisl. In
                                 lectus ligula, varius quis...</p>
-                            <a href="blog-details.html" class="article">full article <span
-                                    class="arrow icofont-rounded-right"></span></a>
+
                         </div>
                     </div>
                 </div>
@@ -116,21 +113,20 @@
                 <div class="col cat-1 cat-2 cat-3 cat-4 mb-10">
                     <div class="single-blog-wrap">
                         <div class="blog-thumb">
-                            <a class="image" href="blog-details.html">
-                                <img class="fit-image" src="/assets/images/news/4.png" alt="blog Image">
-                            </a>
+
+                            <img class="fit-image" src="/assets/images/news/4.png" alt="blog Image">
+
                         </div>
                         <div class="inner-content">
                             <ul class="info-list">
                                 <li>Sep 12, 2021</li>
                                 <li>news</li>
                             </ul>
-                            <h4 class="title"><a href="blog-details.html">Nordic Interior Style</a></h4>
+                            <h4 class="title">Nordic Interior Style</h4>
                             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus faucibus est sed facilisis
                                 viverra. Praesent nec accumsan nibh, eu grav da metus. Curabitur quis sagittis nisl. In
                                 lectus ligula, varius quis...</p>
-                            <a href="blog-details.html" class="article">full article <span
-                                    class="arrow icofont-rounded-right"></span></a>
+
                         </div>
                     </div>
                 </div>
@@ -139,21 +135,20 @@
                 <div class="col cat-1 cat-2 cat-3 cat-4 mb-10">
                     <div class="single-blog-wrap">
                         <div class="blog-thumb">
-                            <a class="image" href="blog-details.html">
-                                <img class="fit-image" src="/assets/images/news/5.png" alt="blog Image">
-                            </a>
+
+                            <img class="fit-image" src="/assets/images/news/5.png" alt="blog Image">
+
                         </div>
                         <div class="inner-content">
                             <ul class="info-list">
                                 <li>Sep 12, 2021</li>
                                 <li>news</li>
                             </ul>
-                            <h4 class="title"><a href="blog-details.html">Nordic Interior Style</a></h4>
+                            <h4 class="title">Nordic Interior Style</h4>
                             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus faucibus est sed facilisis
                                 viverra. Praesent nec accumsan nibh, eu grav da metus. Curabitur quis sagittis nisl. In
                                 lectus ligula, varius quis...</p>
-                            <a href="blog-details.html" class="article">full article <span
-                                    class="arrow icofont-rounded-right"></span></a>
+
                         </div>
                     </div>
                 </div>
@@ -162,21 +157,20 @@
                 <div class="col cat-1 cat-2 cat-3 cat-4 mb-10">
                     <div class="single-blog-wrap">
                         <div class="blog-thumb">
-                            <a class="image" href="blog-details.html">
-                                <img class="fit-image" src="/assets/images/news/6.png" alt="blog Image">
-                            </a>
+
+                            <img class="fit-image" src="/assets/images/news/6.png" alt="blog Image">
+
                         </div>
                         <div class="inner-content">
                             <ul class="info-list">
                                 <li>Sep 12, 2021</li>
                                 <li>news</li>
                             </ul>
-                            <h4 class="title"><a href="blog-details.html">Nordic Interior Style</a></h4>
+                            <h4 class="title">Nordic Interior Style</h4>
                             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus faucibus est sed facilisis
                                 viverra. Praesent nec accumsan nibh, eu grav da metus. Curabitur quis sagittis nisl. In
                                 lectus ligula, varius quis...</p>
-                            <a href="blog-details.html" class="article">full article <span
-                                    class="arrow icofont-rounded-right"></span></a>
+
                         </div>
                     </div>
                 </div>
@@ -185,21 +179,20 @@
                 <div class="col cat-1 cat-2 cat-3 cat-4 mb-10">
                     <div class="single-blog-wrap">
                         <div class="blog-thumb">
-                            <a class="image" href="blog-details.html">
-                                <img class="fit-image" src="/assets/images/news/7.png" alt="blog Image">
-                            </a>
+
+                            <img class="fit-image" src="/assets/images/news/7.png" alt="blog Image">
+
                         </div>
                         <div class="inner-content">
                             <ul class="info-list">
                                 <li>Sep 12, 2021</li>
                                 <li>news</li>
                             </ul>
-                            <h4 class="title"><a href="blog-details.html">Nordic Interior Style</a></h4>
+                            <h4 class="title">Nordic Interior Style</h4>
                             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus faucibus est sed facilisis
                                 viverra. Praesent nec accumsan nibh, eu grav da metus. Curabitur quis sagittis nisl. In
                                 lectus ligula, varius quis...</p>
-                            <a href="blog-details.html" class="article">full article <span
-                                    class="arrow icofont-rounded-right"></span></a>
+
                         </div>
                     </div>
                 </div>
@@ -208,21 +201,21 @@
                 <div class="col cat-1 cat-2 cat-3 cat-4 mb-10">
                     <div class="single-blog-wrap">
                         <div class="blog-thumb">
-                            <a class="image" href="blog-details.html">
-                                <img class="fit-image" src="/assets/images/news/8.png" alt="blog Image">
-                            </a>
+
+                            <img class="fit-image" src="/assets/images/news/8.png" alt="blog Image">
+
                         </div>
                         <div class="inner-content">
                             <ul class="info-list">
                                 <li>Sep 12, 2021</li>
                                 <li>news</li>
                             </ul>
-                            <h4 class="title"><a href="blog-details.html">Nordic Interior Style</a></h4>
+                            <h4 class="title">Nordic Interior Style</h4>
                             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus faucibus est sed facilisis
                                 viverra. Praesent nec accumsan nibh, eu grav da metus. Curabitur quis sagittis nisl. In
                                 lectus ligula, varius quis...</p>
-                            <a href="blog-details.html" class="article">full article <span
-                                    class="arrow icofont-rounded-right"></span></a>
+
+
                         </div>
                     </div>
                 </div>
